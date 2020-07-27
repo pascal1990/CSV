@@ -1,4 +1,6 @@
-#Read the 3 input files reports.json, reports.csv, reports.xml and output a combined CSV file with the following characteristics:
+Name : Pascal Fossouo
+
+Read the 3 input files reports.json, reports.csv, reports.xml and output a combined CSV file with the following characteristics:
 
 The same column order and formatting as reports.csv
 All report records with packets-serviced equal to zero should be excluded
